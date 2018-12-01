@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.f6514bcf.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.29692725.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.29692725.chunk.js.map",
-  "static/js/1.06653c2c.chunk.js": "/react-gh-pages/static/js/1.06653c2c.chunk.js",
-  "static/js/1.06653c2c.chunk.js.map": "/react-gh-pages/static/js/1.06653c2c.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/main.f6514bcf.chunk.css.map": "/react-gh-pages/static/css/main.f6514bcf.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.90bb451abc835c5dbcd12e3b45bfed04.js": "/react-gh-pages/precache-manifest.90bb451abc835c5dbcd12e3b45bfed04.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/movie-search/static/css/main.f6514bcf.chunk.css",
+  "main.js": "/movie-search/static/js/main.3294814f.chunk.js",
+  "main.js.map": "/movie-search/static/js/main.3294814f.chunk.js.map",
+  "static/js/1.06653c2c.chunk.js": "/movie-search/static/js/1.06653c2c.chunk.js",
+  "static/js/1.06653c2c.chunk.js.map": "/movie-search/static/js/1.06653c2c.chunk.js.map",
+  "runtime~main.js": "/movie-search/static/js/runtime~main.05c144d1.js",
+  "runtime~main.js.map": "/movie-search/static/js/runtime~main.05c144d1.js.map",
+  "static/css/main.f6514bcf.chunk.css.map": "/movie-search/static/css/main.f6514bcf.chunk.css.map",
+  "index.html": "/movie-search/index.html",
+  "precache-manifest.6efdf57701c92c527054711bb43877c6.js": "/movie-search/precache-manifest.6efdf57701c92c527054711bb43877c6.js",
+  "service-worker.js": "/movie-search/service-worker.js"
 }
